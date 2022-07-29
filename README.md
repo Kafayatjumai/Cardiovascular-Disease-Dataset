@@ -96,7 +96,8 @@ At the end of my data wranging the structure of my dataset was 70,000 rows and 1
 
  1) Patients with BMI greater than 25kg/m2 have cardiovascular disease.
 
- 2) Patients with a diastolic lower than 90mmHg and a systolic lower than 125mmHg do not have a cardiovascular disease.
+ 2) A large distribution of the patients have high blood pressure.
+> Changes made
 
 ## Key Insights for Presentation:
 
